@@ -1,0 +1,27 @@
+.ceo-details{
+    padding-right: 120px;
+}
+
+.ceo-details h2{
+    padding-bottom: 25px;
+}
+
+.ceo-details span{
+    font-size: 24px;
+	background: #00B0EC;
+	color: black;
+	padding: 10px 40px;
+	border-radius: 10px;
+}
+
+p{
+    font-size: 16px;
+}
+
+.ceo-image{
+    padding-left: 30px;
+}
+
+.ceo-image img{
+    width: 210px;
+}

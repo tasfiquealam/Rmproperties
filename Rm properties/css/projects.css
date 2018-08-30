@@ -1,0 +1,25 @@
+h2{
+    padding-bottom: 20px;
+}
+
+h2 span{
+    border-bottom: 2px solid black;
+}
+
+.completed img{
+    height: 700px;
+    width: 75%;
+    padding-bottom: 30px;
+}
+
+.ongoing img{
+    height: 700px;
+    width: 75%;
+    padding-bottom: 30px;
+}
+
+.upcoming img{
+    height: 700px;
+	width: 75%;
+	padding-bottom: 30px;
+}

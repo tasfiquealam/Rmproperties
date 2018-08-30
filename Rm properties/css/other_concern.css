@@ -1,0 +1,95 @@
+.navbar-nav{
+    background: white !important;
+}
+
+.navbar-footer{
+	 background: black !important;
+}
+
+.logos{
+	padding-top: 30px;
+}
+
+.rm-communication img{
+	height: 190px;
+	width: 350px;
+	padding-left: 150px;
+}
+
+.mahir-enterprise img{
+	height: 200px;
+	width: 370px;
+	padding-right: 150px;
+}
+
+.description{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.description h2{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.description h2 span{
+	font-size: 24px;
+	background: #C5E0B3;
+	color: black;
+	padding: 10px 40px;
+	border-radius: 10px;
+}
+
+.rm-communication-details h3{
+	font-size: 22px;
+	margin-bottom: 25px;
+}
+
+.rm-communication-details h4{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.rm-communication-details ul li{
+	font-size: 18px;
+}
+
+.rm-communication-details span{
+	border-bottom: 1px solid black;
+}
+
+.services-optical {
+	padding-left: 50px;
+	padding-bottom: 30px;
+}
+
+.mahir-enterprise{
+	padding-left: 100px;
+}
+
+.mahir-enterprise h3{
+	font-size: 22px;
+	margin-bottom: 25px;
+}
+
+.mahir-enterprise h4{
+	font-size: 20px;
+}
+
+.mahir-enterprise p{
+	font-size: 18px;
+}
+
+.mahir-enterprise ul li{
+	font-size: 18px;
+}
+
+.mahir-enterprise span{
+	border-bottom: 1px solid black;
+}
+
+.services-products{
+	padding-left: 50px;
+	padding-bottom: 30px;
+}
+

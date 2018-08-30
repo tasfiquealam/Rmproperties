@@ -1,0 +1,182 @@
+/*===== comon style from header=====*/
+
+/*===== comon style from footer===== */
+
+/*=====1.index page Responsive Start Here=====*/
+/* long Device */
+@media screen and (max-width:1326px){
+	
+.collapse .navbar-nav > li > a {
+	margin-right: 5px;
+	padding: 7px 28px;
+	font-size: 11px;
+}
+.description p {
+	text-align: justify;
+	padding-right: 21px;
+} 
+.box1 h3,.box2 h3 {
+	font-size:21px;
+}
+
+}
+/* Medium Device */
+@media screen and (max-width:991px){
+.mylogo {
+	width: 25%;
+	display: block;
+	margin: 0 auto;
+	padding: 15px 0px;
+} 
+.collapse .navbar-nav > li > a {
+	padding: 7px 23px;
+}
+
+.description p {
+	padding: 0px 30px;
+}    
+.box1, .box2{
+	margin: 0px 20px 20px 20px;
+}   
+.box1 h3, .box2 h3 {
+	font-size: 23px;
+    padding: 0px 20px;
+}
+.box2 {
+	padding: 20px 0px;
+	margin: 0px 20px 20px 20px;
+	height: auto;
+}  
+    }
+
+/* small Device */
+ @media screen and (max-width:760px){
+.nav > li {
+	margin-bottom: 10px;
+}
+.description h4 {
+	font-size: 20px;
+}
+.description p {
+	font-size: 16px;
+}     
+.box1 h2, .box2 h2 {
+	font-size: 20px;
+} 
+.box1 h3, .box2 h3{
+    font-size: 16px;   
+}     
+.box1, .box2 {
+	height: auto;
+}     
+.footer_heading{
+  font-size: 16px;  
+}
+.font-size-14 {
+	font-size: 16px;
+} 
+.navbar-footer ul li:hover {
+	font-size:12px;
+}
+.navbar-footer ul li {
+	font-size: 12px;
+}
+.navbar-footer ul li a{
+    transition: .5s ease;     
+}
+.navbar-footer ul li a:hover {
+	color: #bfd6ee;
+}
+}
+/* Mobile Device */
+@media screen and (max-width:480px){
+.description h4 {
+	font-size: 18px;
+}
+.description p {
+	font-size: 13px;
+}
+.box1 h2, .box2 h2 {
+	font-size: 18px;
+} 
+.box1 h3, .box2 h3{
+    font-size: 15px;   
+} 
+}
+/*=====1.index page Responsive End Here=====*/
+/*2.About page Responsive Start Here*/
+/* small Device */
+ @media screen and (max-width:760px){
+   .description h2 {
+	padding-left: 30px;
+}
+}
+/*3.ceo page Responsive Start Here*/
+/* Medium Device */
+@media screen and (max-width:991px){
+   .ceo-image img {
+	       
+	display: block;
+	margin: 0 auto;
+}
+.ceo-details {
+	padding: 0px 30px;
+}
+}
+/*4.completed page Responsive Start Here*/
+
+/* Medium Device */
+@media screen and (max-width:1500px){
+ .completed img {
+	display: block;
+	margin: 0 auto;
+}
+}
+/*5.ongoing page Responsive Start Here*/
+@media screen and (max-width:1600px){
+.ongoing img {
+	display: block;
+	margin: 0 auto;
+}
+}
+/*6. page Responsive Start Here*/
+@media screen and (max-width:1500px){
+.rm-communication img {
+	height: 50%;
+	width: 50%;
+}
+.mahir-enterprise img {
+	height: auto;
+	width: 65%;
+}
+}
+/* Medium Device */
+@media screen and (max-width:991px){
+.rm-communication img {
+	height: auto;
+	width: 35%;
+	display: block;
+	margin: 0 auto;
+}
+.mahir-enterprise {
+	width: 100%;
+}
+.mahir-enterprise img {
+	height: auto;
+	width: 34%;
+	display: block;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+    }
+
+/* small Device */
+ @media screen and (max-width:760px){
+
+}
+/* Mobile Device */
+@media screen and (max-width:480px){
+
+}
+/*6. page Responsive End Here*/
+

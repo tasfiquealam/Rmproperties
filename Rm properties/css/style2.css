@@ -1,0 +1,67 @@
+.navbar-custom {
+	}
+.navbar a {
+	color: white;
+	background:DarkTurquoise ;
+	font-weight: Bold;
+	
+	
+}
+.nav li a:hover {
+	color:white;	background: black;
+	
+}
+
+
+	
+
+header{
+	
+	width: 800px;
+	height: 450px;
+	background: orange;
+	padding: 150px 0;
+	
+}
+.block-a{
+	font-size: 20px;
+	border-top: 1px solid gray;
+	margin: 20px 0;
+	padding: 5px 0;
+	
+}
+
+.text{
+	font-style:quotes;
+	
+}
+
+/*Footer Menu Item*/
+.navbar-footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-footer a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.navbar-footer a:link{
+    color: none;
+    text-decoration: none;
+}
+
+.navbar-footer ul{
+    padding-left: 0;
+}
+
+.navbar-footer ul li{
+    list-style: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-footer a{
+    list-style: none;
+}

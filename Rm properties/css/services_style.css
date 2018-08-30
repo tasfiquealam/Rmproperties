@@ -1,0 +1,21 @@
+.service-details h3{
+    font-size: 18px;
+}
+
+.service-details p{
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.service-details h2{
+    padding-bottom: 30px;
+}
+
+.service-details span{
+    font-size: 20px;
+	background: #00B0EC;
+	color: black;
+	padding: 10px 40px;
+	border-radius: 10px;
+}
